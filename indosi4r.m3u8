@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-/tvip/ind0siar_playback.m3u8
+https://raw.githubusercontent.com/andriwibowo2222/tvip/main/ind0siar_playback.m3u8

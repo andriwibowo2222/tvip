@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1330462&extension=ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,RESOLUTION=1024x768
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1330442&extension=ts
